@@ -1,1 +1,1 @@
-hello i am chadrick alvarez & this is a test commit for this repository
+Hello I am Chadrick Alvarez & this is a test commit for this repository
